@@ -2,7 +2,6 @@
 # Week 01 - Setup &amp; Explore DBMS Tools
 ## สมาชิกทีม
 - ชื่อ 1 (รหัสนักศึกษา)
-- ชื่อ 2 (รหัสนักศึกษา)
 ## สิ่งที่ทำ
 1. ติดตั้ง PostgreSQL 17 + pgAdmin 4
 2. สร้างบัญชี Supabase
